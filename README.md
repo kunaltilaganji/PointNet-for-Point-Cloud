@@ -31,6 +31,8 @@ The dataset link in that repo does not work (<i>probably</i>).
 So I have provided a zip file which you can find it 
 [here](https://www.kaggle.com/datasets/balraj98/modelnet10-princeton-3d-object-dataset).
 
+<b> The dataset might not be the same one</b>
+
 
 ### Dataset
 
